@@ -1,0 +1,21 @@
+body {
+  background-color: #FAF3F3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 15%;
+}
+
+h1 {
+  font-family: fantasy;
+  color: #126E82;
+}
+
+h3 {
+  font-family:cursive;
+  color: #126E82;
+}
